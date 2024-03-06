@@ -4,9 +4,7 @@
 <p align="center">
     <h1 align="center">GENAI-CHATBOT</h1>
 </p>
-<p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
-</p>
+
 <p align="center">
 	<img src="https://img.shields.io/github/license/h-Salvador/GenAI-Chatbot?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/h-Salvador/GenAI-Chatbot?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
